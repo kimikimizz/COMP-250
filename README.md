@@ -8,4 +8,5 @@ A3: Closest Antenna Problem and Maze Solver using recursion <br />
 A4: Collision Detection (in progress)
 
 ## About Plagirism
+All codes have been uploaded after the due date of the assignments, and reflect my personal effort. <br />
 Although assignments change each semester, please do let me know if any of these are reused after Winter 2022. 
