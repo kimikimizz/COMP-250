@@ -1,3 +1,2 @@
-# Course-Registration
-COMP 250 A1
-See the instructions for more details 
+# COMP 250
+This repository was created to store my assignments for the course COMP 250 at McGill. 
